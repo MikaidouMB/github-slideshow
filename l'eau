@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+		<!-- favicône de base -->
+	
+	<link rel="shortcut icon" href="noun_Water2_.png">
+	
+	<link href="style/style.css"rel="stylesheet" type="text/css">
+	<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	
+	<title>My Webpage</title>	
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</head>
+<img class="fixed-image"src="https://i.pinimg.com/236x/69/1e/c8/691ec838e5e64dbe43a4825a9e9b489d--water-symbol-water-logo.jpg" alt="logo"width=50px>
+
+<nav class="navbar navbar-expand-sm navbar-light bg-light">	<a href="index.html" class="navbar-brand">Intro</a>
+	
+	<button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
+		<span class="navbar-toggler-icon"></span></button>
+	
+	<ul class="navbar-nav" >
+		
+		<div class="collapse navbar-collapse" id="navbarMenu">	
+		</div>
+	<ul class="navbar-nav"></ul>
+		
+			<li class="nav-item">
+			<a href="page2.html" class="nav-link">Précautions</a>
+			</li>		
+			<li class="nav-item">
+			<a href="page3.html" class="nav-link">Caractéristiques</a>
+			</li>
+	</ul>
+	<form>
+         <input type="search" name="q" placeholder="Rechercher">
+         <input type="submit" value="Lancer !">
+       </form>
+</nav>
+		<br><img class="fixed-image" src="https://eaumineralenaturelle.fr/wp-content/uploads/2017/06/trop-de-sel-eau-minerale-1.jpg"alt="bouteille d'eau" width=500px><br>
+<body>
+<main>
+
+
+	<p class="accueil"><em>L'eau constitue la base de notre alimentation.<br>Alors que de nombreuses publicités vantent les vertus des eaux minérales, les autorités sanitaires revendiquent un contrôle extrêmement poussé de l'eau du robinet.<em></p>
+
+<p class="accueil"><em>L'eau de pluie constitue l'origine de toutes les ressources en eau que nous exploitons, que ce soit les nappes souterraines ou les rivières.<br>Or, avant d'atteindre les nappes ou les rivières, l'eau de pluie ruisselle et passe à travers les sols. C'est à ce moment-là qu'elle se charge de substances polluantes diverses.</em></p>
+
+<p class="accueil"><em>Comment choisir l'eau que vous buvez ? Que contient-elle ? Notre astuce vous répond.</em></p>
+	
+	</main>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+<footer>2019 My site</footer>
+</html>
