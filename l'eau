@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+		<!-- favicône de base -->
+	
+	<link rel="shortcut icon" href="noun_Water2_.png">
+	
+	<link href="style/style.css"rel="stylesheet" type="text/css">
+	<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	
+	<title>My Webpage</title>	
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</head>
+<img class="fixed-image"src="https://i.pinimg.com/236x/69/1e/c8/691ec838e5e64dbe43a4825a9e9b489d--water-symbol-water-logo.jpg" alt="logo"width=50px>
+
+<nav class="navbar navbar-expand-sm navbar-light bg-light">	<a href="index.html" class="navbar-brand">Intro</a>
+	
+	<button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
+		<span class="navbar-toggler-icon"></span></button>
+	
+	<ul class="navbar-nav" >
+		
+		<div class="collapse navbar-collapse" id="navbarMenu">	
+		</div>
+	<ul class="navbar-nav"></ul>
+		
+			<li class="nav-item">
+			<a href="page2.html" class="nav-link">Précautions</a>
+			</li>		
+			<li class="nav-item">
+			<a href="page3.html" class="nav-link">Caractéristiques</a>
+			</li>
+	</ul>
+	<form>
+         <input type="search" name="q" placeholder="Rechercher">
+         <input type="submit" value="Lancer !">
+       </form>
+</nav>
+		<br><img class="fixed-image" src="https://eaumineralenaturelle.fr/wp-content/uploads/2017/06/trop-de-sel-eau-minerale-1.jpg"alt="bouteille d'eau" width=500px><br>
+<body>
+<main>
+
+
+	<p class="accueil"><em>L'eau constitue la base de notre alimentation.<br>Alors que de nombreuses publicités vantent les vertus des eaux minérales, les autorités sanitaires revendiquent un contrôle extrêmement poussé de l'eau du robinet.<em></p>
+
+<p class="accueil"><em>L'eau de pluie constitue l'origine de toutes les ressources en eau que nous exploitons, que ce soit les nappes souterraines ou les rivières.<br>Or, avant d'atteindre les nappes ou les rivières, l'eau de pluie ruisselle et passe à travers les sols. C'est à ce moment-là qu'elle se charge de substances polluantes diverses.</em></p>
+
+<p class="accueil"><em>Comment choisir l'eau que vous buvez ? Que contient-elle ? Notre astuce vous répond.</em></p>
+	
+	</main>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+<footer>2019 My site</footer>
+</html>
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+		<!-- favicône de base -->
+	<link rel="shortcut icon" href="noun_Water2_.png">
+	<link href="style/style.css"rel="stylesheet" type="text/css">
+	<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	
+	<title>My Webpage</title>	
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</head>
+<img class="fixed-image"src="https://i.pinimg.com/236x/69/1e/c8/691ec838e5e64dbe43a4825a9e9b489d--water-symbol-water-logo.jpg" alt="logo"width=50px>
+
+<nav class="navbar navbar-expand-sm navbar-light bg-light">	<a href="index.html" class="navbar-brand">Intro</a>
+	
+	<button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
+		<span class="navbar-toggler-icon"></span></button>
+	
+	<ul class="navbar-nav" >
+		
+		<div class="collapse navbar-collapse" id="navbarMenu">	
+		</div>
+	<ul class="navbar-nav"></ul>
+		
+			<li class="nav-item">
+			<a href="page2.html"class="nav-link">Précautions</a>
+			</li>		
+			<li class="nav-item">
+			<a href="page3.html"class="nav-link">Caractéristiques</a>
+			</li>
+	</ul>
+</nav>
+
+<body>
+<main>
+	<h3>Attention aux sources de pollution des eaux</h3>
+	<img class="fixed-image" src="https://comps.canstockphoto.fr/eau-pollu%C3%A9-photo-sous-licence_csp50784447.jpg">
+	<h4>Des eaux chargées en métaux lourds</h4>
+	<p><span>
+	Les eaux qui ruissellent sur les toitures ou les gouttières se chargent en zinc et en plomb et lorsqu'elles atteignent les nappes souterraines, elles absorbent différents minéraux selon la roche avec laquelle elles sont en contact.</span></p>
+
+<p><span>Les eaux en contact avec des roches granitiques se chargent d'arsenic, d'aluminium et de fer et celles qui sont en contact avec des roches calcaires, absorbent du fluor, du manganèse et du magnésium.
+	</span></p>
+	
+	<h4>Pollution atmosphérique</h4>
+	<p><span>
+	La pollution atmosphérique entraine également une pollution des eaux, notamment ce qu'on appelle les pluies acides chargées en sulfate, sodium, calcium, ammonium, nitrates et pesticides.</span></p>
+
+	<h4>Agriculture</h4>
+	<p><span>L'agriculture est l'une des grandes sources de pollution des eaux.
+
+Les engrais sont chargés en nitrates. Les pesticides sont également des polluants extrêmement présents dans l'eau.
+
+On estime qu'au moins 60 % des captages d'eau sont pollués par des produits phytosanitaires.</span></p>
+
+	<h4>Déchets ménagers</h4>
+	<p><span>Les produits cosmétiques, les médicaments, les déodorants, les lessives et autres produits ménagers que nous rejetons tous les jours sont des sources constantes de pollution des eaux.</span></p>
+	
+	<h4>Présence de bactéries dans l'eau</h4><p><span>
+		Des études ont mis en évidence la présence de bactéries dans l'eau potable.
+
+Dans certaines régions, les taux de bactéries dans l'eau atteignent des sommets, notamment des bactéries d'origine fécale. Ils sont même plus importants que les taux de pesticides et de nitrates.</span>
+
+<span>Ces eaux seraient responsables de 10 à 30 % des gastro-entérites aigües.</span><p>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</main>
+</body>
+
+</html>
+_________________________________________________________________________________________________________________________________
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!-- favicône de base -->
+	<link rel="shortcut icon" href="noun_Water2_.png">
+	<link href="style/style.css"rel="stylesheet" type="text/css">
+	<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	
+	<title>My Webpage</title>	
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</head>
+	<img class="fixed-image"src="https://i.pinimg.com/236x/69/1e/c8/691ec838e5e64dbe43a4825a9e9b489d--water-symbol-water-logo.jpg" alt="logo"width=50px>
+<nav class="navbar navbar-expand-sm navbar-light bg-light">	<a href="index.html" class="navbar-brand">Intro</a>
+	
+	<button class="navbar-toggler" data-toggle="collapse" data-target="#navbarMenu">
+		<span class="navbar-toggler-icon"></span></button>
+	
+	<ul class="navbar-nav" >
+		
+		<div class="collapse navbar-collapse" id="navbarMenu">	
+		</div>
+	<ul class="navbar-nav"></ul>
+		
+			<li class="nav-item">
+				<a href="page2.html"class="nav-link">Précautions</a>
+			</li>		
+				<li class="nav-item">
+					<a href="page3.html" class="nav-link">Caractéristiques</a>
+				</li>
+	</ul>
+     </nav>
+
+
+<body>
+<img src="https://www.m-habitat.fr/medias/image/chute-du-debit-d-eau-dans-un-robinet-causes-et-solutions-1773-600-600-F.jpg">
+	<h3>Caractéristiques et composition des eaux : laquelle boire ?</h3>
+
+
+	<h3>Eau du robinet</h3>
+		<p>
+Les normes sanitaires concernant l'eau potable sont très strictes. Mais cela n'empêche pas des taux de pesticides, de métaux lourds ou de nitrates qui dépassent largement les seuils recommandés.<br>
+
+Si vous souhaitez consommer l'eau du robinet, il convient de suivre ces quelques recommandations :
+
+<ul>
+<li>Laissez couler l'eau quelques secondes avant de la consommer à cause des traces de plomb présents dans les canalisations et qui contaminent l'eau stagnante.</li>
+
+<li>Évitez de boire de l'eau qui a stagné plus de 24 heures.</li>
+
+<li>Installez un dispositif de filtration de l'eau sur votre robinet ou dans votre carafe afin qu'elle soit libérée des pollutions le plus possible.</li>
+</ul></p>
+
+<p>Voici les avantages de l'eau du robinet par rapport aux eaux de source et minérales :</p>
+
+<ul>
+<li>Elle revient beaucoup moins cher que l'eau en bouteilles.</li>
+
+<li>Comme elle est soumise à des contrôles stricts, sa qualité reste très correcte.</li>
+<li>Elle est moins nuisible pour l'environnement que l'eau en bouteilles puisque son transport ne nécessite pas de pétrole et elle n'engendre aucun déchet.</li>
+</ul>
+<h2>Eau minérale</h2>
+<p>Les eaux minérales sont issues de nappes souterraines profondes, et donc protégées des rejets polluants humains et des bactéries.<br>
+
+En revanche, certaines eaux sont fortement minéralisées et n'entrent ainsi pas dans les normes sur l'eau de consommation :</p>
+
+<ul>
+<li>Leurs taux en fluor et en sodium sont souvent très élevés.</li>
+<li>Les eaux minérales ont des compositions en minéraux stables, contrairement à l'eau du robinet.</li>
+</ul>
+
+<p>Chacune présente ses propres caractéristiques : équilibrer les apports en magnésium et en calcium, faciliter la digestion... Il convient donc de bien lire les étiquettes et de demander conseils à votre médecin sur les eaux qu'il convient de consommer selon votre profil.</p>
+
+<h2>Eau de source</h2>
+<p>L'eau de source, tout comme l'eau minérale provient de nappes ou de gisements souterrains. Elle est donc naturellement pure et à l'abri de la pollution, ainsi aucun germe ou pesticide n'y est déposé.</p>
+
+<p>Ni l'eau de source ni l'eau minérale ne peuvent subir de traitements chimiques contrairement à l'eau du robinet. En revanche, elles peuvent subir des opérations de décantation, d'oxygénation ou de filtration afin d'éliminer les substances toxiques telles que l'arsenic, le fer ou le manganèse.</p>
+
+<p>L'eau de source n'a pas une composition en minéraux stable, contrairement à l'eau minérale dont la composition stable en oligo-éléments a pour origine la nature des roches traversées.</p>
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+
+</html>
+______________________________________________________________________________________________________________________________________________
+
+main{
+	margin:10px;
+
+}
+
+navbar-toggler-icon {
+
+	size: 100%;
+
+}
+span{
+	
+	font-size: 18px;
+}
+
+
+.accueil {
+
+	text-align: center;
+}
+img {
+	
+	border-radius: 10%;
+	margin: 25px;
+	float: left;
+}
